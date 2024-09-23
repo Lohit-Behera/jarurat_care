@@ -1,6 +1,6 @@
-# Wellness Retreats
+# Jarurat Care
 
-Assignment jarurat_care is a web application built to demonstrate a responsive web page. This project is developed using React.
+his project is developed using React.
 
 ## Running Using Docker
 
