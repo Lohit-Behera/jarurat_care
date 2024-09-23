@@ -1,6 +1,6 @@
 # Jarurat Care
 
-his project is developed using React.
+This project is developed using React.
 
 ## Running Using Docker
 
